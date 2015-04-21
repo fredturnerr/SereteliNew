@@ -90,6 +90,23 @@
   <div class="small-12 medium-12 large-12 columns">
 
     <div class="aviso">
+      <p><b>Nuestros Valores:</b></p>
+      <UL>
+        <LI> <b>Compromiso:</b>  Ponemos al máximo nuestras capacidades para sacar adelante todo aquello que se nos ha confiado.
+        <LI> <b>Actitud de Servicio:</b>  Es importante el trato amable, oportuno y eficaz en la prestación de nuestro servicio.
+        <LI> <b>Trabajo en equipo:</b>  Valoramos y fomentamos el aporte de las personas para el logro de los objetivos comunes.
+        <LI> <b>Enfoque  al Cliente:</b>  Construimos relaciones de largo plazo con nuestros clientes, que son nuestra razón de ser. Para nosotros los clientes son lo más importante, por lo que nuestra relación es de respeto y confianza. 
+      </UL>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="small-12 medium-12 large-12 columns">
+
+    <div class="aviso">
       <p>Actualmente y como resultado del constante contacto y retroalimentación que hay con el cliente y usuarios finales, nuestra cartera de servicios ha ido creciendo con Administración de proyectos, Cableado estructurado, Servicios de soporte y apoyo en sitio, Capacitación a usuarios, etc. Lo que nos motiva a seguir preparándonos para poder seguir participando en nuevos proyectos y crecer día a día.</p>
     </div>
 
